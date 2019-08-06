@@ -15,7 +15,6 @@ end
 
 
 def age_appropriate_birthday(birthday_kids)
-  # add your code snippet here!
   
   age_appropriate_birthday.each do |name, age|
     if age < 13
